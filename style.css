@@ -1,0 +1,37 @@
+#div1 {
+    height : 200px;
+    width : 200px;
+    background-color : lightcoral;
+    padding : 20px;
+    border : solid;
+    border-color : black;
+    border-width : 10px;
+    
+}
+
+#no-margins {
+    margin : 0px;
+}
+
+#div2 {
+    height : 200px;
+    width : 200px;
+    background-color : lightgreen;
+    border : solid;
+    border-color : black;
+    border-top-width: 20px;
+    border-right-width: 10px;
+    border-bottom-width: 20px;
+    border-left-width: 10px;
+    margin-left : 260px;
+}
+
+#div3 {
+    height : 200px;
+    width : 200px;
+    background-color : lightblue;
+    border : solid;
+    border-color : black;
+    border-width : 10px;
+    margin-left : 40px;
+}
